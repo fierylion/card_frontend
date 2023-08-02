@@ -7,7 +7,7 @@ import Navbar from './components/Navbar'
 function App() {
   return (
     <>
-      <main className='container m-2 mt-3' style={{"background-color":"#fffff9"}}>
+      <main className='container  mt-3' style={{"background-color":"#fffff9"}}>
         <Navbar />
         <Routes />
       </main>
